@@ -24,7 +24,13 @@
             "user": "Nitrolysis",
             "link": "https://youtu.be/C_sJ9nVVEEc?si=9_RKAnLS9BgeICFY",
             "percent": 100,
-            "hz": "N/A"
+            "hz": "N/A "
+        },
+        {
+            "user": "Hamsam",
+            "link": "https://youtu.be/yPtLIpSKbCo?si=LMf0yuEYodP9F_1-"
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
