@@ -1,0 +1,30 @@
+{
+    "id": 94156395,
+    "name": "Rose Quartz",
+    "author": "JollySpide",
+    "creators": [],
+    "verifier": "JollySpider",
+    "verification": "https://youtu.be/tA-DGUfSK0o?si=u2LlFp_FsiDVI8-p",
+    "percentToQualify": 100,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Tride",
+            "link": "https://youtu.be/hpe2xphYJr8?si=1APxi2ENR-8EIhGp",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "EvrnoobJR",
+            "link": "https://youtu.be/l6oVM87sJ00?si=4WN3FfDWzWQKe60A",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Nitrolysis",
+            "link": "https://youtu.be/C_sJ9nVVEEc?si=9_RKAnLS9BgeICFY",
+            "percent": 100,
+            "hz": "N/A"
+        }
+    ]
+}
