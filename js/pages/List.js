@@ -111,6 +111,9 @@ export default {
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
                     </p>
+                    <p>
+                        If a bug or secret way is used to complete a level, the FIRST record using said bug or secret way will be accepted, with all others being denied.
+                    </p>
                 </div>
             </div>
         </main>
