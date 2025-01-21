@@ -8,5 +8,11 @@
     "percentToQualify": 16,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "moiow",
+            "link": "https://youtu.be/ga0ZU4dclvY",
+            "percent": 100,
+            "hz": 180
+        }
     ]
 }
