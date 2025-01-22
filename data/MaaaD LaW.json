@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/iPFdBciBD-k",
     "percentToQualify": 100,
     "password": "Free To Copy",
-    "records": []
+    "records": [
+        {
+            "user": "EvrnoobJR",
+            "link": "https://youtu.be/3cYFfRSB0ug",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
