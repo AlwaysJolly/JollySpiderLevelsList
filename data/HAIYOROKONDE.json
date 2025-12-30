@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=hPyAajWFBQA",
     "percentToQualify": 100,
     "password": "Free To Copy",
-    "records": []
+    "records": [
+        {
+    "user": "JollySpider",
+    "link": "N/A",
+    "percent": 100,
+    "hz": 240
+}
+    ]
 }
